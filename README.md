@@ -1,5 +1,7 @@
 # Winston Logger Plus
 
+**English** | [简体中文](./README.zh-CN.md)
+
 > [Winston](https://www.npmjs.com/package/winston) with TCP transport support and a cleaner, opinionated log format.
 
 > Built on **Winston 3** and **winston-daily-rotate-file 5**.
